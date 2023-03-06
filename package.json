@@ -1,14 +1,9 @@
 {
   "name": "vite-svelte",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.0",
   "scripts": {
     "dev": "vite"
   },
-  "keywords": [],
-  "author": "borntofrappe",
-  "license": "ISC",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^2.0.3",
     "svelte": "^3.55.1",
