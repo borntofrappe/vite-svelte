@@ -2,16 +2,16 @@
 
 > A most feeble Svelte app
 
-Setup.
+Set up.
 
 ```bash
 npx degit borntofrappe/vite-svelte app
 cd app
-npm install
+pnpm i
 ```
 
 And, run.
 
 ```bash
-npm run dev
+pnpm dev
 ```
